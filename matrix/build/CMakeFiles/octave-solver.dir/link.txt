@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboctave-solver.a CMakeFiles/octave-solver.dir/octave-solver.cpp.o
+/usr/bin/ranlib liboctave-solver.a

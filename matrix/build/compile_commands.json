@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/octave-solver/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/octave-solver.dir/octave-solver.cpp.o -c /home/denis/Projects/octave-solver/matrix/octave-solver.cpp",
+  "file": "/home/denis/Projects/octave-solver/matrix/octave-solver.cpp"
+}
+]
